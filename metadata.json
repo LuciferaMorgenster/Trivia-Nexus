@@ -1,0 +1,10 @@
+{
+  "name": "Trivia Nexus - Dynamic AI Host Showdown",
+  "description": "Interactive trivia game featuring dynamic AI hosts with customizable personalities, real-time voice conversation via Gemini Live, custom TTS banter, and Google Search-grounded questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
