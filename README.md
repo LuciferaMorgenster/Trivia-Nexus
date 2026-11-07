@@ -4,7 +4,7 @@
 
 ---
 
-## 💖 Sponsor Ivory Tower BBS
+## 💖 Sponsor Trivia Nexus — Dynamic AI Host Showdown
 
 Trivia Nexus is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
 
