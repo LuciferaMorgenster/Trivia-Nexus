@@ -100,3 +100,18 @@ Every donation, big or small, helps keep Ivory Tower BBS alive, fund new feature
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+### 💖 Support Trivia Nexus
+
+This project is open-source and built with love.\
+Help keep the project alive and fund its continued development!
+
+**[☕ Donate via PayPal — luciferamorgenster@gmail.com](https://paypal.me/luciferamorgenster)**
+
+Thank you for your support! 🙏
+
+</div>
