@@ -22,7 +22,6 @@ Every donation, big or small, helps keep Ivory Tower BBS alive, fund new feature
 
 ---
 
-
 ## ✨ Key Features
 
 ### 🎙️ Dynamic, User-Chosen AI Host Personalities
